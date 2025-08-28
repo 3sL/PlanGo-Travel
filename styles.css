@@ -1,0 +1,47 @@
+body {
+  font-family: Tahoma, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background: #009688;
+  color: white;
+  padding: 15px 0;
+  margin: 0;
+}
+
+#map {
+  height: 50vh;
+  width: 100%;
+}
+
+section {
+  margin: 20px;
+}
+
+#chatBox {
+  width: 80%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+#chatInput {
+  width: 60%;
+  padding: 8px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background: #009688;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #00796b;
+}
